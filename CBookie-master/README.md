@@ -1,2 +1,2 @@
 # CBookie
-Carbon Bookkeeping model for NASA CMS project
+Carbon Bookkeeping model
